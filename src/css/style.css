@@ -1,0 +1,11 @@
+body{
+    max-width: min(80ch, 100vw - 1rem);
+    margin-inline: auto;
+    background-color: azure;
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}

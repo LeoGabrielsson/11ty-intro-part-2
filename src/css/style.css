@@ -1,11 +1,17 @@
 body{
     max-width: min(80ch, 100vw - 1rem);
     margin-inline: auto;
-    background-color: azure;
+    background-color: green;
 }
 nav ul{
     display: flex;
     gap: 1rem;
     list-style: none;
     padding: 0;
+}
+
+picture > img{
+    display: block;
+    max-width: 100%;
+    height: auto;
 }

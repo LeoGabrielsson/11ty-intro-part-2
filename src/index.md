@@ -6,7 +6,7 @@ title: Home
 # Hello World
 
 Im ded bro fr fr ong no cap **AMEN BROTHER!**
-{% image "/img/Agel.png" %}
+{% image "./src/img/Spirit Animal.jpg", "The lord", "(min-width: 30em) 50vw 100vw"%}
 
 ## Sub
 
